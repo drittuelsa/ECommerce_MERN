@@ -1,0 +1,165 @@
+/* ----- HEADER ------*/
+
+.header-top{
+    background-color: antiquewhite;
+}
+.logo{
+    font-family: cursive;
+    font-weight: bolder;
+    font-size: larger;
+    color: green;
+   padding-top: 6px;
+
+}
+.row1{
+    padding: 10px;
+}
+.box1{
+    width: 500px;
+   
+}
+.login{
+    margin-left: 10px;
+}
+
+/* -----    FOOTER   ----     */
+.logo1{
+    font-family: cursive;
+    font-weight: bolder;
+    font-size: 30px;
+    color: green;
+   padding-top: 6px;
+}
+a{
+text-decoration: none;
+color: black;
+margin-left: 0%;
+}
+h5{
+    padding-bottom: 20px;
+}
+.list{
+    list-style: none;
+    padding-left: 0;
+}
+.icons{
+    padding: 5px;
+    font-size: 20px;
+    color: gray;
+}
+.footer{
+    background-color: antiquewhite;
+}
+.items{
+
+    padding: 20px;
+}
+
+/* ------ BODY -------*/
+
+.left-top-1{
+    border: solid rgb(223, 217, 217) 1px;
+    border-radius: 10%;
+    width: 230px;
+    height: 250px;
+    background-color:rgb(251, 250, 248);
+    margin: 20px;
+}
+.btn1{
+    border: solid rgb(223, 217, 217) 1px;
+    border-radius: 20px;
+    margin: 10px;
+    width: 200px;
+    background-color: white;
+}
+.btn2{
+    border: solid rgb(223, 217, 217) 1px;
+    border-radius: 30px;
+    width: 230px;
+    background-color: white;
+    margin: 20px;
+}
+.btn3{
+    width: 230px; 
+    margin: 20px;
+}
+
+/* item area Home*/
+.rating{
+    border: solid green 1px;
+    width: 100px;
+    background-color: green;
+    border-radius: 10px;
+    
+}
+.star{
+    color: white;
+}
+.item-list{
+    width: 70%;
+
+}
+.container1{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+      
+}
+.details{
+    margin-top: 20px;
+    height: 300px;
+    text-align: left;
+    padding-left: 10px;
+  
+}
+.cards{
+    width: 250px;
+    height: 500px;
+    border: solid 1px rgb(167, 164, 164);
+    padding: 25px;
+    margin:20px; 
+    cursor: pointer;
+    border-radius: 5%;
+
+}
+.btn3{
+    background-color: rgba(146, 190, 175, 0.589);
+    border: solid rgba(146, 190, 175, 0.589) 1px;
+    width: 140px ;
+    height: 35px;
+    margin: auto;
+}
+.pricedemo{
+    text-decoration: line-through;
+    color: grey;
+}
+.btn4{
+    background-color: rgba(221, 135, 135, 0.589);
+    border: solid rgba(221, 135, 135, 0.589) 1px;
+    width: 140px ;
+    height: 35px;
+    margin: auto; 
+}
+
+/*--Product----*/
+.describe{
+ width: 600px;
+ height: 20px;
+ font-size: large;
+
+}
+.desbox{
+    width : 500px;
+    height: 100px;
+}
+.imageset{
+    margin-top: 5px;
+}
+
+/*----login-----*/
+.container2{
+    width: 400px;
+    height: 100px;
+}
+/*-------buynow-----*/
